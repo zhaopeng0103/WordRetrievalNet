@@ -17,8 +17,8 @@ pip install -r requirements.txt
 
 ## Dataset preparation
 1. Download the training, validation and testing dataset
-    The Konzilsprotokolle dataset can be downloaded from [ICFHR 2016 Handwritten Keyword Spotting Competition (H-KWS2016)](https://www.prhlt.upv.es/contests/icfhr2016-kws/data.html).
-    The BH2M dataset can be downloaded from [IEHHR2017 competition](https://rrc.cvc.uab.es/?ch=10&com=downloads)
+    <p>The Konzilsprotokolle dataset can be downloaded from [ICFHR 2016 Handwritten Keyword Spotting Competition (H-KWS2016)](https://www.prhlt.upv.es/contests/icfhr2016-kws/data.html).</p>
+    <p>The BH2M dataset can be downloaded from [IEHHR2017 competition](https://rrc.cvc.uab.es/?ch=10&com=downloads)</p>
 2. Convert the downloaded dataset into the format we need
     ```
     python ./tools/tools_Konzilsprotokolle.py
