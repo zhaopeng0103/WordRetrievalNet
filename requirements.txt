@@ -1,0 +1,9 @@
+torch==1.1.0
+torchvision
+opencv-python
+scikit-image
+shapely
+pillow
+numpy
+scipy
+tqdm
